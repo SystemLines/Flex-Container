@@ -1,0 +1,51 @@
+h1{
+    color:rgb(98, 228, 157);
+    font-family: Leelawadee;
+    font-size: 3em;
+ } 
+
+body{
+    background-color: black;
+    text-align: center;
+}
+
+a{
+    font-family: Leelawadee;
+    color:deepskyblue;
+    font-size: 1em;
+}
+
+#title{
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    color: firebrick;
+    border-color:blanchedalmond;
+    border: 3px solid;
+}
+
+#introduction{
+
+}
+
+#Endroad{
+
+}
+
+#thing{
+
+}
+
+#juan{
+
+}
+
+div{
+    font-weight: bold;
+    font-family: Ink Free;
+}
+
+#center{
+    width: 1920px;
+    text-align: center;
+}

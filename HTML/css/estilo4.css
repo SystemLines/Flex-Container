@@ -1,0 +1,35 @@
+body  {
+    color:yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+    background-color:firebrick;
+      }
+
+header{ 
+        font-size: 5em;
+        font-weight: bold;
+      }
+
+header div{
+    text-align: center;
+    text-shadow:rgb(0, 0, 0), 5em;
+} 
+
+main div {
+     text-decoration:crimson double 3rem;
+     stroke:cyan;
+}
+
+#upi {
+    font-family: Gabriola;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+#mario:hover{
+    filter:grayscale();
+}
+
+#sonik:hover{
+    opacity: 0.7;
+}
